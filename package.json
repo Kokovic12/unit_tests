@@ -1,0 +1,23 @@
+{
+  "name": "intro_unit_testing",
+  "version": "1.0.0",
+  "description": "intro Jest",
+  "main": "01_types.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Igor",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.1"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
